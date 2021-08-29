@@ -1,8 +1,8 @@
 #### *Homework-for-SEC2021*
-#####*contributers:Yuxuan Jia,Yujie Qin*
-######*git仓库： git remote add origin https://github.com/RoLinGC/Homework-for-SEC2021*
+##### *contributers:Yuxuan Jia,Yujie Qin*
+###### *git仓库： git remote add origin https://github.com/RoLinGC/Homework-for-SEC2021*
 # <label style="color:red">简易计算器
-##功能介绍
+## 功能介绍
 * 0-9：数字键
 * .：小数点
 * +：加法
